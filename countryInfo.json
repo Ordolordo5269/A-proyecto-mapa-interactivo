@@ -1,0 +1,1065 @@
+{
+  "United States of America": {
+    "officialName": "Estados Unidos de América",
+    "capital": "Washington, D.C.",
+    "population": "331 millones",
+    "officialLanguages": "Inglés",
+    "currency": "Dólar estadounidense (USD)",
+    "hdi": 0.926,
+    "density": 36,
+    "gdp": 21433226,
+    "exports": 10.7,
+    "imports": 12.6,
+    "unemployment": 6.0,
+    "governmentType": "Democracy",
+    "democracyIndex": 7.92,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Canada": {
+    "officialName": "Canadá",
+    "capital": "Ottawa",
+    "population": "37.59 millones",
+    "officialLanguages": "Inglés, Francés",
+    "currency": "Dólar canadiense (CAD)",
+    "hdi": 0.929,
+    "density": 4,
+    "gdp": 1647126,
+    "exports": 31.8,
+    "imports": 33.1,
+    "unemployment": 9.5,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.24,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Mexico": {
+    "officialName": "México",
+    "capital": "Ciudad de México",
+    "population": "128 millones",
+    "officialLanguages": "Español",
+    "currency": "Peso mexicano (MXN)",
+    "hdi": 0.779,
+    "density": 66,
+    "gdp": 1184740,
+    "exports": 39.3,
+    "imports": 42.2,
+    "unemployment": 4.4,
+    "governmentType": "Republic",
+    "democracyIndex": 6.09,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Brazil": {
+    "officialName": "Brasil",
+    "capital": "Brasilia",
+    "population": "212 millones",
+    "officialLanguages": "Portugués",
+    "currency": "Real brasileño (BRL)",
+    "hdi": 0.765,
+    "density": 25,
+    "gdp": 1444733,
+    "exports": 14.4,
+    "imports": 11.6,
+    "unemployment": 13.9,
+    "governmentType": "Republic",
+    "democracyIndex": 6.86,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Argentina": {
+    "officialName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": "45 millones",
+    "officialLanguages": "Español",
+    "currency": "Peso argentino (ARS)",
+    "hdi": 0.845,
+    "density": 16,
+    "gdp": 449663,
+    "exports": 17.7,
+    "imports": 13.7,
+    "unemployment": 11.0,
+    "governmentType": "Republic",
+    "democracyIndex": 6.96,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "United Kingdom": {
+    "officialName": "Reino Unido",
+    "capital": "Londres",
+    "population": "67 millones",
+    "officialLanguages": "Inglés",
+    "currency": "Libra esterlina (GBP)",
+    "hdi": 0.932,
+    "density": 277,
+    "gdp": 2826441,
+    "exports": 30.0,
+    "imports": 32.7,
+    "unemployment": 4.8,
+    "governmentType": "Democracy",
+    "democracyIndex": 8.54,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "France": {
+    "officialName": "Francia",
+    "capital": "París",
+    "population": "67 millones",
+    "officialLanguages": "Francés",
+    "currency": "Euro (EUR)",
+    "hdi": 0.901,
+    "density": 119,
+    "gdp": 2602612,
+    "exports": 31.7,
+    "imports": 32.8,
+    "unemployment": 8.0,
+    "governmentType": "Republic",
+    "democracyIndex": 7.99,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Germany": {
+    "officialName": "Alemania",
+    "capital": "Berlín",
+    "population": "83 millones",
+    "officialLanguages": "Alemán",
+    "currency": "Euro (EUR)",
+    "hdi": 0.947,
+    "density": 240,
+    "gdp": 3845630,
+    "exports": 46.9,
+    "imports": 39.3,
+    "unemployment": 3.8,
+    "governmentType": "Republic",
+    "democracyIndex": 8.68,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Italy": {
+    "officialName": "Italia",
+    "capital": "Roma",
+    "population": "60 millones",
+    "officialLanguages": "Italiano",
+    "currency": "Euro (EUR)",
+    "hdi": 0.892,
+    "density": 206,
+    "gdp": 1884359,
+    "exports": 32.3,
+    "imports": 29.7,
+    "unemployment": 9.8,
+    "governmentType": "Republic",
+    "democracyIndex": 7.74,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Spain": {
+    "officialName": "España",
+    "capital": "Madrid",
+    "population": "47 millones",
+    "officialLanguages": "Español",
+    "currency": "Euro (EUR)",
+    "hdi": 0.904,
+    "density": 94,
+    "gdp": 1403321,
+    "exports": 35.0,
+    "imports": 31.7,
+    "unemployment": 15.5,
+    "governmentType": "Democracy",
+    "democracyIndex": 8.29,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Russia": {
+    "officialName": "Rusia",
+    "capital": "Moscú",
+    "population": "144 millones",
+    "officialLanguages": "Ruso",
+    "currency": "Rublo ruso (RUB)",
+    "hdi": 0.824,
+    "density": 9,
+    "gdp": 1483499,
+    "exports": 30.8,
+    "imports": 19.4,
+    "unemployment": 5.8,
+    "governmentType": "Republic",
+    "democracyIndex": 3.24,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "China": {
+    "officialName": "China",
+    "capital": "Pekín",
+    "population": "1400 millones",
+    "officialLanguages": "Chino mandarín",
+    "currency": "Yuan chino (CNY)",
+    "hdi": 0.761,
+    "density": 151,
+    "gdp": 14342903,
+    "exports": 19.5,
+    "imports": 17.4,
+    "unemployment": 3.8,
+    "governmentType": "Communism",
+    "democracyIndex": 2.26,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Japan": {
+    "officialName": "Japón",
+    "capital": "Tokio",
+    "population": "126 millones",
+    "officialLanguages": "Japonés",
+    "currency": "Yen japonés (JPY)",
+    "hdi": 0.919,
+    "density": 347,
+    "gdp": 5081770,
+    "exports": 18.5,
+    "imports": 17.6,
+    "unemployment": 2.8,
+    "governmentType": "Democracy",
+    "democracyIndex": 8.13,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "India": {
+    "officialName": "India",
+    "capital": "Nueva Delhi",
+    "population": "1380 millones",
+    "officialLanguages": "Hindi, Inglés",
+    "currency": "Rupia india (INR)",
+    "hdi": 0.645,
+    "density": 464,
+    "gdp": 2875142,
+    "exports": 19.7,
+    "imports": 23.0,
+    "unemployment": 7.1,
+    "governmentType": "Democracy",
+    "democracyIndex": 6.90,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "South Korea": {
+    "officialName": "Corea del Sur",
+    "capital": "Seúl",
+    "population": "52 millones",
+    "officialLanguages": "Coreano",
+    "currency": "Won surcoreano (KRW)",
+    "hdi": 0.916,
+    "density": 527,
+    "gdp": 1655608,
+    "exports": 42.2,
+    "imports": 37.7,
+    "unemployment": 4.0,
+    "governmentType": "Republic",
+    "democracyIndex": 8.00,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Australia": {
+    "officialName": "Australia",
+    "capital": "Canberra",
+    "population": "25 millones",
+    "officialLanguages": "Inglés",
+    "currency": "Dólar australiano (AUD)",
+    "hdi": 0.944,
+    "density": 3,
+    "gdp": 1384020,
+    "exports": 24.0,
+    "imports": 20.6,
+    "unemployment": 6.9,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.09,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "South Africa": {
+    "officialName": "Sudáfrica",
+    "capital": "Pretoria (administrativa), Bloemfontein (judicial), Ciudad del Cabo (legislativa)",
+    "population": "59 millones",
+    "officialLanguages": "11 idiomas oficiales",
+    "currency": "Rand sudafricano (ZAR)",
+    "hdi": 0.705,
+    "density": 49,
+    "gdp": 351432,
+    "exports": 29.9,
+    "imports": 25.0,
+    "unemployment": 32.5,
+    "governmentType": "Democracy",
+    "democracyIndex": 7.24,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Nigeria": {
+    "officialName": "Nigeria",
+    "capital": "Abuya",
+    "population": "206 millones",
+    "officialLanguages": "Inglés",
+    "currency": "Naira (NGN)",
+    "hdi": 0.539,
+    "density": 226,
+    "gdp": 448120,
+    "exports": 15.5,
+    "imports": 18.2,
+    "unemployment": 27.1,
+    "governmentType": "Republic",
+    "democracyIndex": 4.12,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Egypt": {
+    "officialName": "Egipto",
+    "capital": "El Cairo",
+    "population": "102 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Libra egipcia (EGP)",
+    "hdi": 0.707,
+    "density": 102,
+    "gdp": 362917,
+    "exports": 15.7,
+    "imports": 18.9,
+    "unemployment": 9.6,
+    "governmentType": "Republic",
+    "democracyIndex": 2.93,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Turkey": {
+    "officialName": "Turquía",
+    "capital": "Ankara",
+    "population": "84 millones",
+    "officialLanguages": "Turco",
+    "currency": "Lira turca (TRY)",
+    "hdi": 0.820,
+    "density": 110,
+    "gdp": 720101,
+    "exports": 26.1,
+    "imports": 30.0,
+    "unemployment": 13.4,
+    "governmentType": "Republic",
+    "democracyIndex": 4.48,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Saudi Arabia": {
+    "officialName": "Arabia Saudita",
+    "capital": "Riad",
+    "population": "34 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Riyal saudí (SAR)",
+    "hdi": 0.854,
+    "density": 16,
+    "gdp": 792967,
+    "exports": 33.6,
+    "imports": 27.5,
+    "unemployment": 7.4,
+    "governmentType": "Monarchy",
+    "democracyIndex": 1.93,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Indonesia": {
+    "officialName": "Indonesia",
+    "capital": "Yakarta",
+    "population": "273 millones",
+    "officialLanguages": "Indonesio",
+    "currency": "Rupia indonesia (IDR)",
+    "hdi": 0.718,
+    "density": 151,
+    "gdp": 1058391,
+    "exports": 19.1,
+    "imports": 17.2,
+    "unemployment": 7.1,
+    "governmentType": "Republic",
+    "democracyIndex": 6.30,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Pakistan": {
+    "officialName": "Pakistán",
+    "capital": "Islamabad",
+    "population": "220 millones",
+    "officialLanguages": "Urdu, Inglés",
+    "currency": "Rupia pakistaní (PKR)",
+    "hdi": 0.557,
+    "density": 287,
+    "gdp": 263691,
+    "exports": 8.7,
+    "imports": 17.3,
+    "unemployment": 4.5,
+    "governmentType": "Republic",
+    "democracyIndex": 4.31,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Bangladesh": {
+    "officialName": "Bangladés",
+    "capital": "Daca",
+    "population": "166 millones",
+    "officialLanguages": "Bengalí",
+    "currency": "Taka (BDT)",
+    "hdi": 0.632,
+    "density": 1265,
+    "gdp": 324038,
+    "exports": 15.3,
+    "imports": 21.1,
+    "unemployment": 4.2,
+    "governmentType": "Republic",
+    "democracyIndex": 5.88,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Philippines": {
+    "officialName": "Filipinas",
+    "capital": "Manila",
+    "population": "109 millones",
+    "officialLanguages": "Filipino, Inglés",
+    "currency": "Peso filipino (PHP)",
+    "hdi": 0.718,
+    "density": 368,
+    "gdp": 367494,
+    "exports": 29.1,
+    "imports": 28.0,
+    "unemployment": 8.7,
+    "governmentType": "Republic",
+    "democracyIndex": 6.64,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Vietnam": {
+    "officialName": "Vietnam",
+    "capital": "Hanói",
+    "population": "97 millones",
+    "officialLanguages": "Vietnamita",
+    "currency": "Dong vietnamita (VND)",
+    "hdi": 0.704,
+    "density": 308,
+    "gdp": 262709,
+    "exports": 107.8,
+    "imports": 100.6,
+    "unemployment": 2.3,
+    "governmentType": "Communism",
+    "democracyIndex": 3.08,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Thailand": {
+    "officialName": "Tailandia",
+    "capital": "Bangkok",
+    "population": "70 millones",
+    "officialLanguages": "Tailandés",
+    "currency": "Baht tailandés (THB)",
+    "hdi": 0.777,
+    "density": 136,
+    "gdp": 501915,
+    "exports": 58.9,
+    "imports": 52.3,
+    "unemployment": 1.0,
+    "governmentType": "Democracy",
+    "democracyIndex": 6.04,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Malaysia": {
+    "officialName": "Malasia",
+    "capital": "Kuala Lumpur",
+    "population": "32 millones",
+    "officialLanguages": "Malayo",
+    "currency": "Ringgit malayo (MYR)",
+    "hdi": 0.810,
+    "density": 99,
+    "gdp": 336330,
+    "exports": 61.0,
+    "imports": 54.7,
+    "unemployment": 4.5,
+    "governmentType": "Democracy",
+    "democracyIndex": 7.16,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Singapore": {
+    "officialName": "Singapur",
+    "capital": "Singapur",
+    "population": "5.7 millones",
+    "officialLanguages": "Inglés, Malayo, Chino mandarín, Tamil",
+    "currency": "Dólar de Singapur (SGD)",
+    "hdi": 0.938,
+    "density": 8358,
+    "gdp": 372807,
+    "exports": 173.8,
+    "imports": 149.5,
+    "unemployment": 2.9,
+    "governmentType": "Republic",
+    "democracyIndex": 6.03,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "New Zealand": {
+    "officialName": "Nueva Zelanda",
+    "capital": "Wellington",
+    "population": "5 millones",
+    "officialLanguages": "Inglés, Maorí, Lengua de señas de Nueva Zelanda",
+    "currency": "Dólar neozelandés (NZD)",
+    "hdi": 0.931,
+    "density": 18,
+    "gdp": 204959,
+    "exports": 24.0,
+    "imports": 24.1,
+    "unemployment": 4.2,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.25,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "United Arab Emirates": {
+    "officialName": "Emiratos Árabes Unidos",
+    "capital": "Abu Dabi",
+    "population": "9.9 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Dirham (AED)",
+    "hdi": 0.890,
+    "density": 118,
+    "gdp": 421142,
+    "exports": 80.1,
+    "imports": 66.5,
+    "unemployment": 2.4,
+    "governmentType": "Monarchy",
+    "democracyIndex": 2.45,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Israel": {
+    "officialName": "Israel",
+    "capital": "Jerusalén",
+    "population": "9.2 millones",
+    "officialLanguages": "Hebreo",
+    "currency": "Nuevo séquel israelí (ILS)",
+    "hdi": 0.919,
+    "density": 400,
+    "gdp": 387721,
+    "exports": 28.4,
+    "imports": 28.0,
+    "unemployment": 4.8,
+    "governmentType": "Democracy",
+    "democracyIndex": 7.84,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Iran": {
+    "officialName": "Irán",
+    "capital": "Teherán",
+    "population": "83 millones",
+    "officialLanguages": "Persa",
+    "currency": "Rial iraní (IRR)",
+    "hdi": 0.783,
+    "density": 52,
+    "gdp": 611217,
+    "exports": 20.3,
+    "imports": 21.8,
+    "unemployment": 11.2,
+    "governmentType": "Republic",
+    "democracyIndex": 2.45,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Iraq": {
+    "officialName": "Irak",
+    "capital": "Bagdad",
+    "population": "40 millones",
+    "officialLanguages": "Árabe, Kurdo",
+    "currency": "Dinar iraquí (IQD)",
+    "hdi": 0.674,
+    "density": 93,
+    "gdp": 197726,
+    "exports": 38.9,
+    "imports": 29.3,
+    "unemployment": 13.0,
+    "governmentType": "Republic",
+    "democracyIndex": 4.08,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Qatar": {
+    "officialName": "Catar",
+    "capital": "Doha",
+    "population": "2.8 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Riyal catarí (QAR)",
+    "hdi": 0.848,
+    "density": 248,
+    "gdp": 183335,
+    "exports": 47.3,
+    "imports": 26.5,
+    "unemployment": 0.1,
+    "governmentType": "Monarchy",
+    "democracyIndex": 3.19,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Kuwait": {
+    "officialName": "Kuwait",
+    "capital": "Ciudad de Kuwait",
+    "population": "4.2 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Dinar kuwaití (KWD)",
+    "hdi": 0.806,
+    "density": 236,
+    "gdp": 134761,
+    "exports": 54.2,
+    "imports": 37.3,
+    "unemployment": 2.1,
+    "governmentType": "Monarchy",
+    "democracyIndex": 3.85,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Oman": {
+    "officialName": "Omán",
+    "capital": "Mascate",
+    "population": "5 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Rial omaní (OMR)",
+    "hdi": 0.813,
+    "density": 16,
+    "gdp": 76056,
+    "exports": 41.1,
+    "imports": 33.4,
+    "unemployment": 3.0,
+    "governmentType": "Monarchy",
+    "democracyIndex": 3.44,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Jordan": {
+    "officialName": "Jordania",
+    "capital": "Ammán",
+    "population": "10 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Dinar jordano (JOD)",
+    "hdi": 0.729,
+    "density": 112,
+    "gdp": 43869,
+    "exports": 19.4,
+    "imports": 45.7,
+    "unemployment": 23.9,
+    "governmentType": "Monarchy",
+    "democracyIndex": 3.94,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Lebanon": {
+    "officialName": "Líbano",
+    "capital": "Beirut",
+    "population": "6.8 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Libra libanesa (LBP)",
+    "hdi": 0.744,
+    "density": 667,
+    "gdp": 20642,
+    "exports": 11.2,
+    "imports": 37.6,
+    "unemployment": 11.4,
+    "governmentType": "Republic",
+    "democracyIndex": 4.59,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Syria": {
+    "officialName": "Siria",
+    "capital": "Damasco",
+    "population": "17.5 millones",
+    "officialLanguages": "Árabe",
+    "currency": "Libra siria (SYP)",
+    "hdi": 0.549,
+    "density": 95,
+    "gdp": 20639,
+    "exports": 12.7,
+    "imports": 25.1,
+    "unemployment": 50.0,
+    "governmentType": "Republic",
+    "democracyIndex": 1.43,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Afghanistan": {
+    "officialName": "Afganistán",
+    "capital": "Kabul",
+    "population": "38 millones",
+    "officialLanguages": "Pastún, Darí",
+    "currency": "Afgani (AFN)",
+    "hdi": 0.511,
+    "density": 58,
+    "gdp": 20361,
+    "exports": 6.0,
+    "imports": 27.4,
+    "unemployment": 11.1,
+    "governmentType": "Republic",
+    "democracyIndex": 2.85,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Uzbekistan": {
+    "officialName": "Uzbekistán",
+    "capital": "Taskent",
+    "population": "34 millones",
+    "officialLanguages": "Uzbeko",
+    "currency": "Som uzbeko (UZS)",
+    "hdi": 0.720,
+    "density": 79,
+    "gdp": 57719,
+    "exports": 29.0,
+    "imports": 46.8,
+    "unemployment": 9.2,
+    "governmentType": "Republic",
+    "democracyIndex": 2.00,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Kazakhstan": {
+    "officialName": "Kazajistán",
+    "capital": "Nursultán",
+    "population": "18.8 millones",
+    "officialLanguages": "Kazajo, Ruso",
+    "currency": "Tenge (KZT)",
+    "hdi": 0.825,
+    "density": 7,
+    "gdp": 180160,
+    "exports": 34.2,
+    "imports": 27.5,
+    "unemployment": 4.9,
+    "governmentType": "Republic",
+    "democracyIndex": 2.94,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Ukraine": {
+    "officialName": "Ucrania",
+    "capital": "Kiev",
+    "population": "41 millones",
+    "officialLanguages": "Ucraniano",
+    "currency": "Grivna (UAH)",
+    "hdi": 0.779,
+    "density": 75,
+    "gdp": 155582,
+    "exports": 40.3,
+    "imports": 45.3,
+    "unemployment": 9.6,
+    "governmentType": "Republic",
+    "democracyIndex": 5.81,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Poland": {
+    "officialName": "Polonia",
+    "capital": "Varsovia",
+    "population": "38 millones",
+    "officialLanguages": "Polaco",
+    "currency": "Złoty (PLN)",
+    "hdi": 0.880,
+    "density": 124,
+    "gdp": 594172,
+    "exports": 54.7,
+    "imports": 50.4,
+    "unemployment": 3.2,
+    "governmentType": "Democracy",
+    "democracyIndex": 6.85,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Netherlands": {
+    "officialName": "Países Bajos",
+    "capital": "Ámsterdam",
+    "population": "17 millones",
+    "officialLanguages": "Neerlandés",
+    "currency": "Euro (EUR)",
+    "hdi": 0.944,
+    "density": 508,
+    "gdp": 912957,
+    "exports": 82.5,
+    "imports": 73.5,
+    "unemployment": 3.8,
+    "governmentType": "Democracy",
+    "democracyIndex": 8.99,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Belgium": {
+    "officialName": "Bélgica",
+    "capital": "Bruselas",
+    "population": "11 millones",
+    "officialLanguages": "Neerlandés, Francés, Alemán",
+    "currency": "Euro (EUR)",
+    "hdi": 0.933,
+    "density": 383,
+    "gdp": 503376,
+    "exports": 81.5,
+    "imports": 78.2,
+    "unemployment": 5.6,
+    "governmentType": "Democracy",
+    "democracyIndex": 8.29,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Sweden": {
+    "officialName": "Suecia",
+    "capital": "Estocolmo",
+    "population": "10 millones",
+    "officialLanguages": "Sueco",
+    "currency": "Corona sueca (SEK)",
+    "hdi": 0.945,
+    "density": 25,
+    "gdp": 528929,
+    "exports": 46.8,
+    "imports": 39.3,
+    "unemployment": 8.3,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.39,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Norway": {
+    "officialName": "Noruega",
+    "capital": "Oslo",
+    "population": "5.4 millones",
+    "officialLanguages": "Noruego",
+    "currency": "Corona noruega (NOK)",
+    "hdi": 0.957,
+    "density": 14,
+    "gdp": 403336,
+    "exports": 37.4,
+    "imports": 26.2,
+    "unemployment": 4.6,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.87,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Denmark": {
+    "officialName": "Dinamarca",
+    "capital": "Copenhague",
+    "population": "5.8 millones",
+    "officialLanguages": "Danés",
+    "currency": "Corona danesa (DKK)",
+    "hdi": 0.940,
+    "density": 137,
+    "gdp": 365722,
+    "exports": 55.8,
+    "imports": 49.2,
+    "unemployment": 4.8,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.81,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Finland": {
+    "officialName": "Finlandia",
+    "capital": "Helsinki",
+    "population": "5.5 millones",
+    "officialLanguages": "Finés, Sueco",
+    "currency": "Euro (EUR)",
+    "hdi": 0.938,
+    "density": 18,
+    "gdp": 269654,
+    "exports": 38.2,
+    "imports": 38.7,
+    "unemployment": 7.7,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.37,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Switzerland": {
+    "officialName": "Suiza",
+    "capital": "Berna",
+    "population": "8.6 millones",
+    "officialLanguages": "Alemán, Francés, Italiano, Romanche",
+    "currency": "Franco suizo (CHF)",
+    "hdi": 0.955,
+    "density": 216,
+    "gdp": 703080,
+    "exports": 66.2,
+    "imports": 56.1,
+    "unemployment": 4.8,
+    "governmentType": "Democracy",
+    "democracyIndex": 9.03,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Austria": {
+    "officialName": "Austria",
+    "capital": "Viena",
+    "population": "9 millones",
+    "officialLanguages": "Alemán",
+    "currency": "Euro (EUR)",
+    "hdi": 0.922,
+    "density": 109,
+    "gdp": 431651,
+    "exports": 56.5,
+    "imports": 50.8,
+    "unemployment": 5.5,
+    "governmentType": "Democracy",
+    "democracyIndex": 8.29,
+    "internationalRelations": {
+      "organizations": ["UN"]
+    }
+  },
+  "Greece": {
+    "officialName": "Grecia",
+    "capital": "Atenas",
+    "population": "10.4 millones",
+    "officialLanguages": "Griego",
+    "currency": "Euro (EUR)",
+    "hdi": 0.888,
+    "density": 81,
+    "gdp": 209850,
+    "exports": 35.7,
+    "imports": 39.4,
+    "unemployment": 16.4,
+    "governmentType": "Democracy",
+    "democracyIndex": 7.43,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Portugal": {
+    "officialName": "Portugal",
+    "capital": "Lisboa",
+    "population": "10 millones",
+    "officialLanguages": "Portugués",
+    "currency": "Euro (EUR)",
+    "hdi": 0.864,
+    "density": 111,
+    "gdp": 231169,
+    "exports": 44.3,
+    "imports": 42.5,
+    "unemployment": 6.5,
+    "governmentType": "Democracy",
+    "democracyIndex": 8.03,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Hungary": {
+    "officialName": "Hungría",
+    "capital": "Budapest",
+    "population": "9.6 millones",
+    "officialLanguages": "Húngaro",
+    "currency": "Forinto (HUF)",
+    "hdi": 0.854,
+    "density": 105,
+    "gdp": 161757,
+    "exports": 84.5,
+    "imports": 81.3,
+    "unemployment": 4.1,
+    "governmentType": "Democracy",
+    "democracyIndex": 6.63,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Czech Republic": {
+    "officialName": "República Checa",
+    "capital": "Praga",
+    "population": "10.7 millones",
+    "officialLanguages": "Checo",
+    "currency": "Corona checa (CZK)",
+    "hdi": 0.888,
+    "density": 139,
+    "gdp": 243515,
+    "exports": 79.7,
+    "imports": 73.4,
+    "unemployment": 2.6,
+    "governmentType": "Democracy",
+    "democracyIndex": 7.69,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Romania": {
+    "officialName": "Rumanía",
+    "capital": "Bucarest",
+    "population": "19 millones",
+    "officialLanguages": "Rumano",
+    "currency": "Leu (RON)",
+    "hdi": 0.828,
+    "density": 84,
+    "gdp": 250077,
+    "exports": 40.8,
+    "imports": 42.1,
+    "unemployment": 5.5,
+    "governmentType": "Democracy",
+    "democracyIndex": 6.50,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  },
+  "Bulgaria": {
+    "officialName": "Bulgaria",
+    "capital": "Sofía",
+    "population": "6.9 millones",
+    "officialLanguages": "Búlgaro",
+    "currency": "Lev (BGN)",
+    "hdi": 0.816,
+    "density": 64,
+    "gdp": 69011,
+    "exports": 50.0,
+    "imports": 51.1,
+    "unemployment": 5.1,
+    "governmentType": "Democracy",
+    "democracyIndex": 6.71,
+    "internationalRelations": {
+      "organizations": ["UN", "NATO"]
+    }
+  }
+}
+
