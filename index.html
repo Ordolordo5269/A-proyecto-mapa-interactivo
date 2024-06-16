@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WorldLore</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+</head>
+<body>
+    <div class="top-bar">
+        <input type="text" id="country-search" placeholder="Buscar país (en inglés)" aria-label="Buscar país">
+        <button id="search-button" aria-label="Buscar">Buscar</button>
+    </div>
+    <div class="container">
+        <div id="map-container">
+            <div id="map"></div>
+        </div>
+        <div id="sidebar" class="hidden">
+            <h2 id="main-title">Información</h2>
+            <div class="accordion">
+                <div class="accordion-item">
+                    <button id="accordion-button-organizations" class="accordion-button">Organizaciones Internacionales</button>
+                    <div id="accordion-content-organizations" class="accordion-content">
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="eu-checkbox">
+                            <label for="eu-checkbox">Unión Europea</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="nato-checkbox">
+                            <label for="nato-checkbox">OTAN</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="un-checkbox">
+                            <label for="un-checkbox">ONU</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button id="accordion-button-statistics" class="accordion-button">Sociedad</button>
+                    <div id="accordion-content-statistics" class="accordion-content">
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="hdi-checkbox">
+                            <label for="hdi-checkbox">Mostrar IDH</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="density-checkbox">
+                            <label for="density-checkbox">Mostrar Densidad de Población</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button id="accordion-button-economy" class="accordion-button">Economía</button>
+                    <div id="accordion-content-economy" class="accordion-content">
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="gdp-checkbox">
+                            <label for="gdp-checkbox">PIB</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="exports-checkbox">
+                            <label for="exports-checkbox">Exportaciones en función del PIB</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="imports-checkbox">
+                            <label for="imports-checkbox">Importaciones en función del PIB</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="unemployment-checkbox">
+                            <label for="unemployment-checkbox">Desempleo</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <button id="accordion-button-government" class="accordion-button">Gobierno y Política</button>
+                    <div id="accordion-content-government" class="accordion-content">
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="government-type-checkbox">
+                            <label for="government-type-checkbox">Tipo de Gobierno</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="democracy-index-checkbox">
+                            <label for="democracy-index-checkbox">Índice de Democracia</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="info-box">
+                <h1 id="country-title"></h1>
+                <p id="country-info">Haga clic en un país para ver más detalles aquí.</p>
+            </div>
+        </div>
+        <div class="zoom-control">
+            <button id="zoom-in" aria-label="Acercar">+</button>
+            <button id="zoom-out" aria-label="Alejar">-</button>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
